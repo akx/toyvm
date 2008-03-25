@@ -1,0 +1,4 @@
+*.py[cod]
+.svn
+/ccomp
+/mini_c

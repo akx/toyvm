@@ -1,0 +1,9 @@
+0	Stack
+512	System mmap
+1024	Display chars (32 x 24 = 768 bytes)
+1792	Background colors (24 * 6 = 144 bytes)
+1936	Quarterrow (horizontal split) colors (24 * 4 = 96 bytes)
+
+
+4096	== User Code
+65535	Memory end
